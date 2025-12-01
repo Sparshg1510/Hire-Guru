@@ -1,4 +1,4 @@
-# 👨‍💼 HireGuru — Smart Job Portal for Modern Recruitment
+# 👨‍💼 Hire-Guru —> Smart Job Portal for Modern Recruitment
 
     HireGuru is a full-stack recruitment platform designed to simplify hiring for companies and empower job seekers to apply for roles effortlessly.
     It includes intelligent search, resume management, employer dashboards, application tracking, messaging, and much more.
